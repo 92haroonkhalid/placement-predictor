@@ -59,7 +59,7 @@ def login():
         if email=="" or password=="":
             st.error("Please enter email and password")
             return
-        con = sqlite3.connect("Project/SQL/users.db")
+        con = sqlite3.connect("database/users.db")
         pul = con.cursor()
         pul.execute("""
             SELECT username,password
