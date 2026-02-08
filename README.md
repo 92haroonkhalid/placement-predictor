@@ -5,7 +5,7 @@ A full-stack Machine Learning web application built with Streamlit, Scikit-Learn
 The application also includes a secure authentication system with hashed passwords and user session management.
 
 # 🚀 Live Demo
-(Add your Streamlit Cloud link here after deployment)
+https://placement-predictor-app.streamlit.app
 
 # 🧠 Features
 - 🔐 Secure User Registration & Login (SHA256 password hashing)
@@ -45,7 +45,7 @@ placement-predictor/
 
 # ⚙️ Installation & Setup
 Clone the repository:
-git clone https://github.com/yourusername/placement-predictor.git
+git clone https://github.com/92haroonkhalid/placement-predictor.git
 cd placement-predictor
 
 Install dependencies:
