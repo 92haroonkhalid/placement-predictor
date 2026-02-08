@@ -1,18 +1,18 @@
-## 🎓 Student Placement & Salary Prediction App
+# 🎓 Student Placement & Salary Prediction App
 A full-stack Machine Learning web application built with Streamlit, Scikit-Learn, and SQLite that predicts:
 - 📌 Student Placement Status (Classification)
 - 💰 Expected Salary Package (Regression)
 
 The application also includes a secure authentication system with hashed passwords and user session management.
 
-# 🚀 Live Demo
+## 🚀 Live Demo
 use these login credentials
 - email: 123@gmail.com
 - pass: 12345678
 
 https://placement-predictor-app.streamlit.app
 
-# 🧠 Features
+## 🧠 Features
 - 🔐 Secure User Registration & Login (SHA256 password hashing)
 - 🆔 Unique UUID-based user IDs
 - 📊 Placement Prediction using ML Classification
@@ -21,7 +21,7 @@ https://placement-predictor-app.streamlit.app
 - 🎨 Interactive and Clean Streamlit UI
 - ⚡ Session State Authentication Handling
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 - Python
 - Streamlit
 - Scikit-learn
@@ -30,7 +30,7 @@ https://placement-predictor-app.streamlit.app
 - UUID
 - Pickle
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 placement-predictor/
 
@@ -69,7 +69,7 @@ placement-predictor/
 └── data/
     └── dataset.csv
 
-# ⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 Clone the repository:
 git clone https://github.com/92haroonkhalid/placement-predictor.git
 
@@ -81,15 +81,15 @@ pip install -r requirements.txt
 Run the application:
 streamlit run main file.py
 
-# 🔐 Authentication System
+## 🔐 Authentication System
 - Passwords are hashed using SHA256 before storing.
 - Unique UUID is generated for each user.
 - SQLite used for lightweight database storage.
 
-# 📈 Machine Learning Models
+## 📈 Machine Learning Models
 - Classification Model → Predicts whether student will be placed.
 - Regression Model → Predicts expected salary package (LPA).
 - Models are loaded using pickle.
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 Haroon Khalid
