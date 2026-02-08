@@ -5,6 +5,9 @@ A full-stack Machine Learning web application built with Streamlit, Scikit-Learn
 The application also includes a secure authentication system with hashed passwords and user session management.
 
 # 🚀 Live Demo
+use these login credentials
+- email: 123@gmail.com
+- pass: 12345678
 https://placement-predictor-app.streamlit.app
 
 # 🧠 Features
@@ -52,7 +55,7 @@ Install dependencies:
 pip install -r requirements.txt
 
 Run the application:
-streamlit run app.py
+streamlit run main file.py
 
 # 🔐 Authentication System
 - Passwords are hashed using SHA256 before storing.
