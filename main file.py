@@ -4,7 +4,7 @@ import sqlite3
 import hashlib
 import uuid
 
-con = sqlite3.connect("Project/database/users.db")
+con = sqlite3.connect("database/users.db")
 pul = con.cursor()
 pul.execute("""
 CREATE TABLE IF NOT EXISTS users (
@@ -82,10 +82,10 @@ def login():
 
 
 def module():
-    with open("Project/Models/placement_classifier.pkl", "rb") as file:
+    with open("Models/placement_classifier.pkl", "rb") as file:
         placement_model = pickle.load(file)
 
-    with open("Project/Models/package_prediction_model.pkl", "rb") as file:
+    with open("Models/package_prediction_model.pkl", "rb") as file:
         salary_model = pickle.load(file)
         
     st.title("Student Placement & Salary Prediction")
