@@ -14,6 +14,7 @@ It combines machine learning models with a Streamlit interactive UI for a smooth
 use these login credentials
 - email: 123@gmail.com
 - pass: 12345678
+
 https://placement-predictor-app.streamlit.app/
 
 ## ✅ Features
