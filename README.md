@@ -33,39 +33,22 @@ https://placement-predictor-app.streamlit.app
 # 📂 Project Structure
 
 placement-predictor/
-
 │
-
 ├── main file.py
-
 ├── requirements.txt
-
 ├── README.md
-
 ├── .gitignore
-
 │
-
 ├── model training/
-
 │   ├── LPA Training.py
-
 │   └── Placement Training.py
-
 ├── models/
-
 │   ├── placement_classifier.pkl
-
 │   └── package_prediction_model.pkl
-
 │
-
 ├── database/
-
 │   └── users.db (auto-created)
-
 │
-
 └── data/
     └── dataset.csv
 
