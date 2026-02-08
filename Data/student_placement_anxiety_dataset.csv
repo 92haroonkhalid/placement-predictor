@@ -1,0 +1,101 @@
+Student_ID,Branch,CGPA,Internships,Mock_Test_Score,Coding_Hours_Per_Week,Resume_Score,Anxiety_Level,Expected_Package_LPA,Placement_Status
+S001,IT,8.24,0,92,11,65,Low,11.8,Placed
+S002,CSE,8.37,4,50,21,77,Low,5.6,Placed
+S003,IT,7.77,0,80,9,95,High,8.4,Not Placed
+S004,ECE,6.97,0,55,25,77,High,6.3,Not Placed
+S005,CSE,6.75,2,51,5,74,High,7.3,Not Placed
+S006,CSE,7.2,2,47,17,84,Low,9.6,Not Placed
+S007,CSE,8.9,4,68,21,62,High,10.9,Placed
+S008,CIVIL,8.71,0,59,6,74,Medium,13.0,Not Placed
+S009,CIVIL,6.57,2,58,24,67,High,14.2,Not Placed
+S010,IT,8.27,4,85,8,84,Low,8.5,Placed
+S011,CSE,6.94,4,59,24,70,High,5.7,Not Placed
+S012,IT,6.11,2,70,11,54,High,14.0,Not Placed
+S013,IT,7.99,2,58,23,81,Medium,6.2,Not Placed
+S014,EEE,6.86,4,79,11,87,High,13.8,Not Placed
+S015,CSE,7.4,1,53,19,81,Low,4.8,Placed
+S016,EEE,6.56,3,83,5,74,High,10.2,Not Placed
+S017,CIVIL,7.64,2,80,3,93,High,13.6,Placed
+S018,CSE,8.63,2,52,12,77,Low,14.4,Not Placed
+S019,CIVIL,9.07,2,77,8,82,Low,6.6,Placed
+S020,ME,8.24,4,57,7,73,Low,6.9,Placed
+S021,IT,6.07,2,64,10,53,High,13.5,Not Placed
+S022,IT,9.31,0,91,18,54,Low,10.9,Placed
+S023,ME,9.31,1,61,19,88,Medium,12.1,Placed
+S024,EEE,8.41,2,70,24,91,Medium,13.8,Placed
+S025,ME,7.58,1,59,5,71,Low,5.6,Placed
+S026,ECE,6.25,0,59,5,52,High,3.9,Not Placed
+S027,CIVIL,6.83,3,58,20,58,High,14.2,Not Placed
+S028,CSE,8.0,3,60,18,76,Low,10.9,Placed
+S029,CSE,7.24,3,74,4,93,High,7.8,Placed
+S030,IT,7.19,0,60,9,62,High,8.1,Not Placed
+S031,CSE,6.97,1,49,17,85,High,3.6,Not Placed
+S032,EEE,9.5,0,50,10,60,Medium,5.6,Not Placed
+S033,EEE,7.4,0,55,15,50,Medium,6.4,Not Placed
+S034,IT,8.44,4,87,25,81,Low,6.6,Placed
+S035,CSE,9.39,4,92,20,53,Medium,3.6,Placed
+S036,CSE,7.67,4,55,4,82,Low,10.1,Placed
+S037,ME,8.36,1,70,6,86,Low,10.1,Placed
+S038,ECE,8.17,3,87,21,86,Medium,5.5,Placed
+S039,EEE,8.51,1,61,15,58,High,6.8,Not Placed
+S040,CSE,8.63,0,45,17,89,High,9.5,Placed
+S041,IT,7.77,1,67,5,65,Medium,8.3,Not Placed
+S042,CIVIL,7.9,2,84,23,83,Low,4.2,Not Placed
+S043,ECE,9.07,2,52,6,85,Low,10.3,Not Placed
+S044,ECE,8.51,1,88,23,66,Medium,13.9,Placed
+S045,CSE,8.96,0,85,16,67,Low,7.0,Placed
+S046,CIVIL,6.46,2,55,17,85,High,8.1,Not Placed
+S047,CSE,6.03,0,89,7,84,High,13.0,Not Placed
+S048,ECE,8.04,1,72,7,52,Medium,13.8,Placed
+S049,ECE,8.79,0,67,9,93,Low,12.4,Placed
+S050,IT,9.09,3,84,7,65,Low,13.6,Placed
+S051,ECE,6.09,2,71,24,65,High,4.9,Not Placed
+S052,ECE,8.45,3,47,18,64,Low,6.7,Not Placed
+S053,ECE,8.78,1,59,3,92,Low,6.3,Not Placed
+S054,EEE,6.24,2,67,23,82,High,11.2,Not Placed
+S055,CSE,8.95,2,46,6,66,Low,4.3,Not Placed
+S056,ME,7.52,2,72,22,82,Low,5.3,Not Placed
+S057,CIVIL,6.16,3,45,19,84,High,11.6,Not Placed
+S058,ME,8.6,1,68,16,54,High,6.8,Not Placed
+S059,ECE,8.97,2,77,12,92,Medium,7.8,Placed
+S060,ME,7.03,1,57,16,92,Medium,9.8,Placed
+S061,EEE,7.42,0,64,12,63,Medium,8.3,Not Placed
+S062,ECE,8.36,4,75,8,92,Low,9.2,Placed
+S063,IT,8.22,2,50,10,93,Medium,4.8,Placed
+S064,EEE,6.16,3,84,5,79,High,13.6,Not Placed
+S065,CIVIL,8.01,3,76,15,65,Low,11.3,Placed
+S066,CSE,9.12,0,72,10,61,Medium,9.7,Placed
+S067,EEE,9.21,0,74,7,79,Medium,10.4,Placed
+S068,CIVIL,8.52,4,72,20,78,Low,13.3,Placed
+S069,ECE,7.58,1,85,11,83,Medium,8.3,Placed
+S070,IT,8.5,1,62,13,70,High,4.8,Placed
+S071,ECE,7.34,1,90,9,54,Medium,9.5,Not Placed
+S072,ME,7.46,1,71,15,87,High,7.6,Placed
+S073,ME,6.02,2,64,15,76,High,12.0,Not Placed
+S074,EEE,7.91,4,59,18,64,Medium,3.3,Not Placed
+S075,EEE,7.18,3,91,8,79,Low,10.1,Placed
+S076,IT,8.32,0,86,16,58,Medium,3.6,Placed
+S077,EEE,7.33,1,74,13,71,Medium,6.0,Not Placed
+S078,ECE,6.29,0,92,20,53,High,5.7,Not Placed
+S079,CSE,6.24,0,46,10,62,High,10.5,Not Placed
+S080,IT,6.83,3,87,6,86,High,8.6,Not Placed
+S081,CIVIL,6.9,2,55,22,88,High,11.6,Not Placed
+S082,ME,8.72,1,64,6,87,Low,11.1,Not Placed
+S083,CSE,9.35,3,90,9,54,Low,11.4,Placed
+S084,CIVIL,7.06,4,52,21,52,Medium,7.4,Not Placed
+S085,ECE,7.77,2,45,16,81,Low,10.6,Not Placed
+S086,ME,8.9,1,72,8,83,Medium,12.7,Placed
+S087,IT,7.88,3,74,16,87,Medium,13.0,Not Placed
+S088,ME,6.3,3,60,17,86,High,11.0,Not Placed
+S089,ECE,7.18,3,65,8,81,Low,7.1,Not Placed
+S090,CSE,9.08,2,80,3,83,Low,5.9,Placed
+S091,EEE,7.42,4,60,25,80,High,12.5,Not Placed
+S092,ECE,6.33,1,70,25,65,High,11.0,Not Placed
+S093,ECE,7.29,4,78,14,77,High,11.4,Not Placed
+S094,ECE,6.95,2,59,6,62,High,4.4,Not Placed
+S095,CSE,7.88,1,57,9,80,Medium,13.0,Not Placed
+S096,ECE,7.04,2,56,12,50,High,3.5,Placed
+S097,EEE,6.19,2,89,7,90,High,4.2,Not Placed
+S098,ECE,6.04,2,75,18,78,High,5.2,Not Placed
+S099,EEE,6.18,3,52,5,75,High,3.9,Not Placed
+S100,IT,8.2,0,54,7,86,Medium,4.4,Placed
