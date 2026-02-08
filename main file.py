@@ -4,7 +4,7 @@ import sqlite3
 import hashlib
 import uuid
 
-con = sqlite3.connect("Project/SQL/users.db")
+con = sqlite3.connect("Project/database/users.db")
 pul = con.cursor()
 pul.execute("""
 CREATE TABLE IF NOT EXISTS users (
