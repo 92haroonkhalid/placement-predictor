@@ -31,6 +31,7 @@ https://placement-predictor-app.streamlit.app
 - Pickle
 
 # 📂 Project Structure
+
 placement-predictor/
 │
 ├── app.py
