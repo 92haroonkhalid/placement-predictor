@@ -27,7 +27,7 @@ def gen_uid():
 # acha yha registration ho rhee ha ok. and data is being saved in sql database named as users.db
 def reg():
     st.title("Registration Page")
-    con = sqlite3.connect("Project/SQL/users.db")
+    con = sqlite3.connect("database/users.db")
     pul = con.cursor()
     uid = gen_uid()
 
