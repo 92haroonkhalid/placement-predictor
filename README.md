@@ -2,12 +2,14 @@
 A full-stack Machine Learning web application built with Streamlit, Scikit-Learn, and SQLite that predicts:
 - 📌 Student Placement Status (Classification)
 - 💰 Expected Salary Package (Regression)
+
 The application also includes a secure authentication system with hashed passwords and user session management.
 
 # 🚀 Live Demo
 use these login credentials
 - email: 123@gmail.com
 - pass: 12345678
+
 https://placement-predictor-app.streamlit.app
 
 # 🧠 Features
@@ -49,6 +51,7 @@ placement-predictor/
 # ⚙️ Installation & Setup
 Clone the repository:
 git clone https://github.com/92haroonkhalid/placement-predictor.git
+
 cd placement-predictor
 
 Install dependencies:
